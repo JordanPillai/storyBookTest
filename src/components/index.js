@@ -1,4 +1,3 @@
-import Button from './'
-import TestComponent from './'
+import Button from './Button';
 
-export { Button, TestComponent }
+export default Button;
